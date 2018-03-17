@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "git-it": "^1.6.9"
+    "ecstatic": "^3.2.0",
+    "git-it": "^1.6.9",
+    "handlebars": "^4.0.11",
+    "qs": "^6.5.1",
+    "uglify-js": "^3.3.15"
   }
 }
